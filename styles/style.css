@@ -48,10 +48,7 @@ height: 600px;
 
 }
 
-.Offer{
-    width: 1600px;
-    height: 7335px;
-}
+
 .picture{
 
     width: 600px;
@@ -82,8 +79,7 @@ font-size: 20px;
 font-style: normal;
 font-weight: 300px;
 line-height: normal;
-padding-left: 270px;
-padding-top: 0;
+
 }
 .Offer-catagory{
 
@@ -95,5 +91,66 @@ font-size: 48px;
 font-style: normal;
 font-weight: 700;
 line-height: normal;
-padding-left: 270px;
+
 }
+
+.wow{
+
+   
+   width: 1320px;
+   height: 600px;
+   flex-shrink: 0;
+   border-radius: 16px;
+   background-image: url(../resources/Vectorrr.png);
+   background-repeat: no-repeat;
+   margin: 0 250px;
+   
+   
+   }
+   .t-c{
+
+color: rgba(255, 255, 255, 0.80);
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 88px
+width: 697px;
+padding-top: 0px;
+padding-left: 50px;
+
+
+   }
+
+   .B-tittle{
+
+    color: #FFF;
+
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 88px;
+    letter-spacing: 7.04px;
+    width: 642px;
+    padding-left: 50px;
+    padding-top: 200px;
+    
+
+
+
+   }
+   
+   .btn{
+    color: #FFF;
+
+    
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-top: 0px;
+    padding-left: 50px;
+   }

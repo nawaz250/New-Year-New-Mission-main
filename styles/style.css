@@ -335,11 +335,112 @@ padding-bottom: 20px;
 
 }
 
-.sample{
-
+.Sample{
+align-items: ;
 justify-content: space-between;
 margin: 0 300px;
 background: #FFF;
 padding-top: 100px;
 
 }
+
+.Email-M{
+    padding-top: 100px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin: 30px 250px;
+    align-items: center;
+    padding-bottom: 100px;
+
+}
+
+.sub{
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+width: 150px;
+height: 72px;
+flex-shrink: 0;
+
+}
+
+.input-box{
+    width: 170px;
+    height: 72px;
+    flex-shrink: 0;
+border-radius: 50px;
+background: #FFF;
+padding-left: 100px;
+
+}
+.Email-des{
+    width: 896px;
+    color: rgba(7, 2, 17, 0.60);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    
+}
+
+.Email-text{
+text-align: center;
+
+}
+
+.image-p{
+    text-align: center;
+}
+.E-Des{
+
+    padding-left: 200px;
+}
+
+.Button-p{
+    text-align: center;
+}
+.F-Main{
+    width: 1600px;
+    height: 609px;
+    color: #FFF;
+margin: auto;
+justify-content: space-between;
+background: #070211;
+
+
+
+}
+
+.p-png{
+text-align: center;
+padding-top: 50px;
+}
+
+.web{
+
+display: flex;
+padding-top: 0px;
+padding-left: 1450px;
+
+}
+
+.call{
+display: flex;
+padding-left: 1450px;
+}
+.last-text{
+    color: #FFF;
+    font-family: Inter;
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 50px 50px 50px;
+}
+
+.Space{
+    padding: 50px 0 0 50px;
+    color: #FFF;
+font-family: Inter;
+font-style: normal;
+
+}
+
